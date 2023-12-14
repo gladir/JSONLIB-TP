@@ -1,5 +1,5 @@
 # JSONLIB-TP
-Bibliothèque en Turbo Pascal permettant de créer des fichiers JSON, exporter,..
+Bibliothèque en Turbo Pascal permettant de créer des fichiers JSON, exporter,...
 
 <h3>Liste des unités</h3>
 
