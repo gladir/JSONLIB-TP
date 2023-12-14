@@ -62,7 +62,7 @@ Begin
  WriteLn(F,'{');
  For I:=1 to NumKV do Begin
   If I>1 Then Write(F,',');
-  Write(F,'"',Data[I-1].Key,'","',Data[I-1].Value,'"');
+  Write(F,'"',StrPas(Data[I-1].Key),'","',StrPas(Data[I-1].Value),'"');
  End;
  WriteLn(F,'}');
 End;
